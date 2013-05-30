@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/javascriptlint/!svn/ver/301/trunk/tests/html
+END
+script_tag_in_js_literal.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/239/trunk/tests/html/script_tag_in_js_literal.html
+END
+unsupported_version.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/javascriptlint/!svn/ver/301/trunk/tests/html/unsupported_version.html
+END
+e4x.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/javascriptlint/!svn/ver/301/trunk/tests/html/e4x.html
+END
+include.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/javascriptlint/!svn/ver/232/trunk/tests/html/include.html
+END
+script_tag_in_js_comment.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/239/trunk/tests/html/script_tag_in_js_comment.html
+END
+include.ecmascript
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/javascriptlint/!svn/ver/232/trunk/tests/html/include.ecmascript
+END

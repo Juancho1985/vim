@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svnroot/javascriptlint/!svn/ver/303/trunk
+END
+DEVELOPMENT
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/javascriptlint/!svn/ver/245/trunk/DEVELOPMENT
+END
+Makefile.SpiderMonkey
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/javascriptlint/!svn/ver/278/trunk/Makefile.SpiderMonkey
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/javascriptlint/!svn/ver/272/trunk/INSTALL
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/javascriptlint/!svn/ver/257/trunk/test.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/javascriptlint/!svn/ver/295/trunk/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/javascriptlint/!svn/ver/162/trunk/COPYING
+END
+jsl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/javascriptlint/!svn/ver/253/trunk/jsl
+END
+svn_load_dirs.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/javascriptlint/!svn/ver/150/trunk/svn_load_dirs.conf
+END
+www.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/javascriptlint/!svn/ver/277/trunk/www.py
+END

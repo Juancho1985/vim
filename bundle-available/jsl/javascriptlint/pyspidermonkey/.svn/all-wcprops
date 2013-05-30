@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/javascriptlint/!svn/ver/301/trunk/javascriptlint/pyspidermonkey
+END
+pyspidermonkey.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/javascriptlint/!svn/ver/301/trunk/javascriptlint/pyspidermonkey/pyspidermonkey.c
+END
+tokens.tbl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/251/trunk/javascriptlint/pyspidermonkey/tokens.tbl
+END
+nodepos.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/javascriptlint/!svn/ver/251/trunk/javascriptlint/pyspidermonkey/nodepos.c
+END
+nodepos.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/javascriptlint/!svn/ver/251/trunk/javascriptlint/pyspidermonkey/nodepos.h
+END

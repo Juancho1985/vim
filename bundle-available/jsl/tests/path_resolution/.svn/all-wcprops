@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/javascriptlint/!svn/ver/216/trunk/tests/path_resolution
+END
+file
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/javascriptlint/!svn/ver/109/trunk/tests/path_resolution/file
+END
+asterisk.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/javascriptlint/!svn/ver/214/trunk/tests/path_resolution/asterisk.js
+END
+is_a_dir_not_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/path_resolution/is_a_dir_not_file.js
+END
+is_a_file_not_dir.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/javascriptlint/!svn/ver/216/trunk/tests/path_resolution/is_a_file_not_dir.js
+END
+is_a_dir.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/path_resolution/is_a_dir.js
+END
+minus_process.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/110/trunk/tests/path_resolution/minus_process.js
+END
+is_a_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/path_resolution/is_a_file.js
+END
+not_a_dir.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/javascriptlint/!svn/ver/214/trunk/tests/path_resolution/not_a_dir.js
+END
+not_a_file.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/javascriptlint/!svn/ver/214/trunk/tests/path_resolution/not_a_file.js
+END
+question_mark.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/214/trunk/tests/path_resolution/question_mark.js
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/javascriptlint/!svn/ver/301/trunk/tests
+END
+run_tests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/run_tests.pl
+END
