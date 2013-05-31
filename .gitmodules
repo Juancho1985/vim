@@ -1,0 +1,4 @@
+[submodule "dotvim"]
+	path = dotvim
+	url = https://github.com/Juancho-1985-10-25/dotvim.git
+
