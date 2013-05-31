@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/jsd/idl
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/jsd/idl/Makefile.in
+END
+jsdIDebuggerService.idl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/jsd/idl/jsdIDebuggerService.idl
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/jsd/idl/.cvsignore
+END

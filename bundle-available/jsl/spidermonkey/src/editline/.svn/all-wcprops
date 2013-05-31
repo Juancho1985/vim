@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline
+END
+editline.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/editline.h
+END
+sysunix.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/sysunix.c
+END
+Makefile.ref
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/Makefile.ref
+END
+unix.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/unix.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/README
+END
+editline.3
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/editline.3
+END
+editline.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/146/trunk/spidermonkey/src/editline/editline.c
+END

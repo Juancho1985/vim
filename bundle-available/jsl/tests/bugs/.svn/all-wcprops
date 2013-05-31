@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/javascriptlint/!svn/ver/293/trunk/tests/bugs
+END
+sf-2890901-unicode.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/292/trunk/tests/bugs/sf-2890901-unicode.js
+END
+sf-2891908-finally_without_catch.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/javascriptlint/!svn/ver/293/trunk/tests/bugs/sf-2891908-finally_without_catch.js
+END

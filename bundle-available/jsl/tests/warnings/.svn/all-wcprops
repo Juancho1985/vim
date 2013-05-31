@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/javascriptlint/!svn/ver/299/trunk/tests/warnings
+END
+ambiguous_nested_stmt.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/ambiguous_nested_stmt.js
+END
+missing_default_case.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/missing_default_case.js
+END
+want_assign_or_call.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/javascriptlint/!svn/ver/297/trunk/tests/warnings/want_assign_or_call.js
+END
+octal_number.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/octal_number.js
+END
+duplicate_formal.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/javascriptlint/!svn/ver/217/trunk/tests/warnings/duplicate_formal.js
+END
+useless_comparison.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/useless_comparison.js
+END
+identifier_hides_another.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/javascriptlint/!svn/ver/285/trunk/tests/warnings/identifier_hides_another.js
+END
+meaningless_block.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/meaningless_block.js
+END
+missing_semicolon.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/javascriptlint/!svn/ver/238/trunk/tests/warnings/missing_semicolon.js
+END
+dup_option_explicit.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/dup_option_explicit.js
+END
+unreachable_code_2.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/284/trunk/tests/warnings/unreachable_code_2.js
+END
+partial_option_explicit.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/partial_option_explicit.js
+END
+assign_to_function_call.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/assign_to_function_call.js
+END
+missing_semicolon_for_lambda.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/javascriptlint/!svn/ver/238/trunk/tests/warnings/missing_semicolon_for_lambda.js
+END
+useless_assign.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/useless_assign.js
+END
+leading_decimal_point.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/leading_decimal_point.js
+END
+inc_dec_within_stmt-ignore.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/inc_dec_within_stmt-ignore.js
+END
+with_statement.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/with_statement.js
+END
+trailing_decimal_point.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/trailing_decimal_point.js
+END
+missing_break_for_last_case.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/javascriptlint/!svn/ver/174/trunk/tests/warnings/missing_break_for_last_case.js
+END
+nested_comment.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/nested_comment.js
+END
+useless_void.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/useless_void.js
+END
+parseint_missing_radix.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/parseint_missing_radix.js
+END
+no_return_value.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/javascriptlint/!svn/ver/233/trunk/tests/warnings/no_return_value.js
+END
+unreferenced_identifier.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/javascriptlint/!svn/ver/299/trunk/tests/warnings/unreferenced_identifier.js
+END
+multiple_plus_minus.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/javascriptlint/!svn/ver/221/trunk/tests/warnings/multiple_plus_minus.js
+END
+trailing_comma_in_array.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/trailing_comma_in_array.js
+END
+ambiguous_else_stmt.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/ambiguous_else_stmt.js
+END
+duplicate_case_in_switch.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/duplicate_case_in_switch.js
+END
+missing_break.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/228/trunk/tests/warnings/missing_break.js
+END
+inc_dec_within_stmt.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/inc_dec_within_stmt.js
+END
+comma_separated_stmts.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/comma_separated_stmts.js
+END
+default_not_at_end.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/warnings/default_not_at_end.js
+END
+use_of_label.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/use_of_label.js
+END
+anon_no_return_value.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/227/trunk/tests/warnings/anon_no_return_value.js
+END
+empty_statement.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/javascriptlint/!svn/ver/176/trunk/tests/warnings/empty_statement.js
+END
+jsl_cc_not_understood.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/jsl_cc_not_understood.js
+END
+useless_quotes.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/useless_quotes.js
+END
+misplaced_regex.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/misplaced_regex.js
+END
+block_without_braces.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/javascriptlint/!svn/ver/176/trunk/tests/warnings/block_without_braces.js
+END
+var_hides_arg.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/javascriptlint/!svn/ver/285/trunk/tests/warnings/var_hides_arg.js
+END
+equal_as_assign.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/equal_as_assign.js
+END
+legacy_cc_not_understood.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/javascriptlint/!svn/ver/179/trunk/tests/warnings/legacy_cc_not_understood.js
+END
+comparison_type_conv.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/javascriptlint/!svn/ver/74/trunk/tests/warnings/comparison_type_conv.js
+END
+missing_option_explicit.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/javascriptlint/!svn/ver/82/trunk/tests/warnings/missing_option_explicit.js
+END
+redeclared_var.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/javascriptlint/!svn/ver/219/trunk/tests/warnings/redeclared_var.js
+END
+unreachable_code.js
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/javascriptlint/!svn/ver/228/trunk/tests/warnings/unreachable_code.js
+END
