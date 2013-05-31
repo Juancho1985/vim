@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/PruebasNode/Desktop/ExtJS/IntroToExt2'
-let g:netrw_dirhist_2='/home/PruebasNode/Desktop/ExtJS/ext-3.4.0/test/unit/Ext'
-let g:netrw_dirhist_3='/home/PruebasNode/Desktop/pruebas/site/mvc/lib/views/wiki/patterns/patternsPartials'
-let g:netrw_dirhist_4='/home/PruebasNode/Desktop/pruebas/jscriptGeneral/testJscoverage/htmlcov-example/test'
