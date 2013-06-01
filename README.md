@@ -1,6 +1,6 @@
 VIM
-@author: JJG
-@webpage: www.jjgarciawiki.com
+author: JJG \n
+webpage: www.jjgarciawiki.com \n
 
 Introduction:
 -------------
@@ -15,6 +15,6 @@ References:
 I have my personal settings here, but I have nothing to do with everything in behind, what I mean is that everything here, is just an excelent text editor with personal configurations, and a few pluggins I didnot do.
 "Standing in the shoulders of Gigants" like:
 
-https://github.com/tpope
-http://www.crockford.com/
-http://www.vim.org/
+https://github.com/tpope \n
+http://www.crockford.com/ \n
+http://www.vim.org/ \n
