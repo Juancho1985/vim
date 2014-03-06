@@ -1,9 +1,7 @@
 set nocompatible
-call pathogen#runtime_append_all_bundles()
-call pathogen#helptags()
 syntax on
 set softtabstop=2
-set shiftwidth=2
+set shiftwidth=4
 set expandtab
 set smartindent
 set number
@@ -16,7 +14,7 @@ set smarttab
 set noeb vb t_vb=
 
 map <C-t> :tabnew<CR>
-map <C-r> :tabonly<CR>
+map <C-k> :tabonly<CR>
 map <C-e> :tabclose<CR>
 map <C-h> :%s<CR>
 
@@ -59,17 +57,6 @@ if has('statusline')
   set statusline+=%=%-14.(%l,%c%V%)\ %p%% " Right aligned file nav info
 endif
 
-let g:syntastic_mode_map={  'mode': 'active',
-                          \ 'active_filetypes': ['javascript'],
-                          \ 'passive_filetypes': []}
-                        
-let g:syntastic_enable_signs=1
-let g:syntastic_auto_loc_list=1
-let g:syntastic_enable_highlighting=1
-let g:syntastic_loc_list_height=5
-let g:syntastic_quiet_warnings=0
-let g:syntastic_javascript_checker='jshint'
-
 "Copy paste for Vim
 vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
 nmap <C-v> :call setreg("\"", system("xclip -o -selection clipboard"))<CR>p
@@ -82,10 +69,10 @@ let g:snipMate.scope_aliases['javascript'] = 'javascript'
 set statusline+=set statusline=%<\ %n:%f\ %m%r%y%{SyntasticStatuslineFlag()}%=line:\ %l\ of\ %L,\ col:\ %c%V,\  
 
 let g:syntastic_enable_signs=1
+let g:syntastic_loc_list_height=5
 let g:syntastic_auto_loc_list=1
 let g:syntastic_enable_highlighting=1
-let g:syntastic_quiet_warnings=0
-let g:syntastic_javascript_checker = 'jshint'
+let g:syntastic_javascript_checkers = ['jshint']
 let g:syntastic_mode_map = { 'mode': 'active',
   \ 'active_filetypes': ['javascript','coffe','html','css'],
   \ 'passive_filetypes':[]}
@@ -100,3 +87,53 @@ let g:CommandTCancelMap='<C-x>'
 filetype plugin indent on
 filetype on
 
+
+set nocompatible              " be iMproved, required
+filetype off                  " required
+
+" set the runtime path to include Vundle and initialize
+set rtp+=~/.vim/bundle/vundle/
+call vundle#rc()
+" alternatively, pass a path where Vundle should install bundles
+"let path = '~/some/path/here'
+"call vundle#rc(path)
+
+" let Vundle manage Vundle, required
+Bundle 'gmarik/vundle'
+
+" The following are examples of different formats supported.
+" Keep bundle commands between here and filetype plugin indent on.
+" scripts on GitHub repos
+Bundle 'tpope/vim-fugitive'
+Bundle 'Lokaltog/vim-easymotion'
+Bundle 'tpope/vim-rails.git'
+Bundle 'groenewege/vim-less'
+" The sparkup vim script is in a subdirectory of this repo called vim.
+" Pass the path to set the runtimepath properly.
+Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
+" scripts from http://vim-scripts.org/vim/scripts.html
+Bundle 'L9'
+Bundle 'FuzzyFinder'
+" scripts not on GitHub
+Bundle 'git://git.wincent.com/command-t.git'
+Bundle 'https://github.com/digitaltoad/vim-jade.git'
+" git YMC you complete me
+Bundle 'Valloric/YouCompleteMe'
+" third party plugins downloaded
+Bundle 'scrooloose/syntastic'
+Bundle 'scrooloose/nerdtree'
+
+filetype plugin indent on
+" Brief help
+" :BundleList          - list configured bundles
+" :BundleInstall(!)    - install (update) bundles
+" :BundleSearch(!) foo - search (or refresh cache first) for foo
+" :BundleClean(!)      - confirm (or auto-approve) removal of unused bundles
+"
+" see :h vundle for more details or wiki for FAQ
+" NOTE: comments after Bundle commands are not allowed.
+
+"See templates hbs, handlebars as html
+
+au BufRead *.hbs set ft=html 
+au BufRead *.json set ft=js
