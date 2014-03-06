@@ -2,7 +2,7 @@ VIM
 
 author: JJG 
 
-webpage: www.jjgarciawiki.com 
+webpage: jjgarciablog.herokuapp.com 
 
 Introduction:
 -------------
@@ -22,3 +22,7 @@ https://github.com/tpope
 http://www.crockford.com/ 
 
 http://www.vim.org/ 
+
+Note:
+-----
+You will need ruby 1.9 for command-t pluggin.
