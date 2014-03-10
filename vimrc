@@ -16,7 +16,7 @@ set noeb vb t_vb=
 map <C-t> :tabnew<CR>
 map <C-k> :tabonly<CR>
 map <C-e> :tabclose<CR>
-map <C-h> :%s<CR>
+
 
 nnoremap <S-q> 1gt
 nnoremap <S-w> 2gt
