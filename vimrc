@@ -61,6 +61,9 @@ endif
 vmap <C-c> y:call system("xclip -i -selection clipboard", getreg("\""))<CR>:call system("xclip -i", getreg("\""))<CR>
 nmap <C-v> :call setreg("\"", system("xclip -o -selection clipboard"))<CR>p
 
+"Search and replace
+vmap <F9> :s/foo/bar/g<CR>
+
 "SnipMate
 let g:snipMate = {}
 let g:snipMate.scope_aliases = {}
@@ -117,11 +120,14 @@ Bundle 'FuzzyFinder'
 " scripts not on GitHub
 Bundle 'git://git.wincent.com/command-t.git'
 Bundle 'https://github.com/digitaltoad/vim-jade.git'
+Bundle 'https://github.com/yegappan/grep'
+
+" third party plugins downloaded
 " git YMC you complete me
 Bundle 'Valloric/YouCompleteMe'
-" third party plugins downloaded
 Bundle 'scrooloose/syntastic'
 Bundle 'scrooloose/nerdtree'
+Bundle 'godlygeek/tabular'
 
 filetype plugin indent on
 " Brief help
