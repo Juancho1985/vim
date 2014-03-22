@@ -6,7 +6,7 @@ set expandtab
 set smartindent
 set number
 set showmode
-set spell
+"set spell
 set cursorline
 colorscheme gvimStyle
 set guifont=Monaco
@@ -80,6 +80,8 @@ let g:syntastic_mode_map = { 'mode': 'active',
   \ 'active_filetypes': ['javascript','coffe','html','css'],
   \ 'passive_filetypes':[]}
 
+let g:vim_json_syntax_conceal=0
+
 "Autocomplete, TODO: i have to add smarter one
 :imap <C-Space> <c-x><c-o>
 
@@ -128,7 +130,7 @@ Bundle 'Valloric/YouCompleteMe'
 Bundle 'scrooloose/syntastic'
 Bundle 'scrooloose/nerdtree'
 Bundle 'godlygeek/tabular'
-
+Bundle 'elzr/vim-json'
 filetype plugin indent on
 " Brief help
 " :BundleList          - list configured bundles
@@ -142,4 +144,14 @@ filetype plugin indent on
 "See templates hbs, handlebars as html
 
 au BufRead *.hbs set ft=html 
-au BufRead *.json set ft=js
+au! BufRead,BufNewFile *.json set ft=json
+
+augroup json_autocmd
+    autocmd!
+    autocmd FileType json set autoindent
+    autocmd FileType json set formatoptions=tcq2l
+    autocmd FileType json set textwidth=78 shiftwidth=2
+    autocmd FileType json set softtabstop=2 tabstop=8
+    autocmd FileType json set expandtab
+"    autocmd FileType json set foldmethod=syntax
+augroup END
