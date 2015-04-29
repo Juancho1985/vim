@@ -2,7 +2,6 @@ VIM
 
 author: JJG 
 
-webpage: jjgarciablog.herokuapp.com 
 
 Introduction:
 -------------
