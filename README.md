@@ -33,25 +33,43 @@ VIM installation with LUA for neocomplete:
   sudo ln -s /usr/bin/luajit-2.0.0-beta9 /usr/bin/luajit
 
   cd ~
+
   hg clone https://code.google.com/p/vim/
+
   cd vim/src
+
   make distclean
+
   ./configure --with-features=huge \
+
   --enable-rubyinterp \
+
   --enable-largefile \
+
   --disable-netbeans \
+
   --enable-pythoninterp \
+
   --with-python-config-dir=/usr/lib/python2.7/config \
+
   --enable-perlinterp \
+
   --enable-luainterp \
+
   --with-luajit \
+
   --enable-gui=auto \
+
   --enable-fail-if-missing \
+
   --with-lua-prefix=/usr/include/lua5.1 \
-  --enable-cscope 
-  make 
+
+  --enable-cscope
+
+  make
+
   sudo make install
 
-  Note:
-  -----
-  You will need ruby 1.9 for command-t pluggin.
+Note:
+-----
+You will need ruby 1.9 for command-t pluggin.
