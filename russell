@@ -1,0 +1,30 @@
+PROMPT="%(?:%{$fg_bold[green]%}➜ :%{$fg_bold[red]%}➜ )"
+PROMPT+=' %{$fg[cyan]%}%c%{$reset_color%} $(git_prompt_info)'
+
+ZSH_THEME_GIT_PROMPT_PREFIX="%{$fg_bold[blue]%}(%{$fg[red]%}"
+ZSH_THEME_GIT_PROMPT_SUFFIX="%{$reset_color%} "
+ZSH_THEME_GIT_PROMPT_DIRTY="%{$fg[blue]%}) %{$fg[yellow]%}✗"
+ZSH_THEME_GIT_PROMPT_CLEAN="%{$fg[blue]%})"
+
+KUBE_PS1_PREFIX=""
+KUBE_PS1_SEPARATOR=""
+KUBE_PS1_SUFFIX=""
+KUBE_PS1_CTX_COLOR=blue
+
+get_cluster_short() {
+  if [[ $1 == *production* ]]; then
+    echo "production"
+  else
+    if [[ $1 == *staging* ]]; then
+      echo "staging"
+    else
+      if [[ $1 == *minikube* ]]; then
+        echo "minikube"
+      fi
+    fi
+  fi
+}
+
+KUBE_PS1_CLUSTER_FUNCTION=get_cluster_short
+
+RPROMPT='$(kube_ps1)'
